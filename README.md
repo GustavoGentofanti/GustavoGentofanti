@@ -3,16 +3,15 @@
 <div align="left/right">
   <a href="https://github.com/gustavogentofanti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogentofanti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogentofanti&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ## Tecnologias que estou estudando.
   <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://img.freepik.com/vetores-gratis/homem-bonito-trabalhando-no-laptop-com-ilustracao-de-icone-do-vetor-dos-desenhos-animados-do-cafe-conceito-de-icone-de-tecnologia-de-pessoas-isolado-vetor-premium-estilo-flat-cartoon_138676-3869.jpg?size=338&ext=jpg&ga=GA1.2.2063384117.1644079360">
+  <img align="center" alt="Gento-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gento-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Gento-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gento-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Gento-pic" height="150" style="border-radius:50px;" src="https://img.freepik.com/vetores-gratis/homem-bonito-trabalhando-no-laptop-com-ilustracao-de-icone-do-vetor-dos-desenhos-animados-do-cafe-conceito-de-icone-de-tecnologia-de-pessoas-isolado-vetor-premium-estilo-flat-cartoon_138676-3869.jpg?size=338&ext=jpg&ga=GA1.2.2063384117.1644079360">
 </div>
 
 ##
