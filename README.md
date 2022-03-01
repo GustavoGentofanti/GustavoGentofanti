@@ -4,6 +4,7 @@
 <img width="300px" align="right" src="https://s4.aconvert.com/convert/p3r68-cdx67/apede-u7685.png">
 
 ## About me 👨‍💼
+
 ### - 📚 Currently I'm studing Computer Science in Universidade Federal do ABC
 
 ### - 💻 Trainee (Jovem Aprendiz(BR)) at Mercedes-Benz do Brasil
@@ -14,20 +15,23 @@
 
 ### - 🎮 During my free time I like play video game, play guitar, go to the gym and other things
 
-
+## 
 ## 💻 Ferramentas e Tecnologias
+
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title = "INTELLIJ"/></code>
 <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" title = "NETBEANS"/></code>
 
 ## 👨‍🎓 Estou aprendendo
+
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 
 ##
   
   ### Contatos 📱
+  
   <div>
   <a href="https://instagram.com/gentuuu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavogentofanti.pro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -36,6 +40,7 @@
  
   
   ## ⚡ GitHub Stats
+  
 <div align="left/right">
   <a href="https://github.com/gustavogentofanti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogentofanti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
@@ -43,4 +48,5 @@
 </div>
  
   ##
+  
 ![Snake animation](https://github.com/gustavogentofanti/gustavogentofanti/blob/output/github-contribution-grid-snake.svg)
