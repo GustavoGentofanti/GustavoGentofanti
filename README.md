@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile! 👋
 
 ### Nice to meet you! My name is Gustavo Gentofanti Silvany, 17 years old, a Computer Science student living in Brazil. Nowadays, I focus my time on learning more each day about some programming languages for example: (Java and Python). I’m always keeping my mind on doing my things with creativity and quality. I’m always trying to get better and that’s why I'm a good listener and open for reviews so i can became a profissional more qualified.
-<img width="250px" align="right" src="https://s4.aconvert.com/convert/p3r68-cdx67/apede-u7685.png">
+<img width="250px" align="right" src="https://photos.google.com/u/1/album/AF1QipNHBGZWFSgyr_wxEV_3pW3pR1rp3z7WLGkzBW7b/photo/AF1QipOC3ny8YMFNk7rVARF29HeJ3afDBBlYCI_LEpnu">
 
 ## About me 👨‍💼
 
