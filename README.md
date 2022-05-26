@@ -17,14 +17,14 @@
 ### - 🎮 During my free time I like play video game, play guitar, go to the gym and other things
 
 ## 
-### 💻 Ferramentas e Tecnologias
+### 💻 Tools and technology
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title = "INTELLIJ"/></code>
 <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" title = "NETBEANS"/></code>
 
-### 👨‍🎓 Estou aprendendo
+### 👨‍🎓 I'm learning
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
@@ -39,7 +39,7 @@
 </div>
   
   ##
-  ### Contatos 📱
+  ### Contact 📱
   
   <div>
   <a href="https://instagram.com/gentuuu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
