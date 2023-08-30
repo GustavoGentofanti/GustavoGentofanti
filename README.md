@@ -8,8 +8,6 @@
 
 ### - 📚 Currently I'm studing Computer Science in Universidade Federal do ABC
 
-### - 💻 Trainee (Jovem Aprendiz(BR)) at Mercedes-Benz do Brasil
-
 ### - 👩‍💻 I'm focused on learning the programming languages Java and Python
 
 ### - 🤝🏻 Open for colaborations
